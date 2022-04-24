@@ -1,2 +1,2 @@
-# Pizza-Hunt
+# Pizza-Pizza
 challenge 18
